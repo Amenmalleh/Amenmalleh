@@ -12,6 +12,10 @@
 
 ### Projets principaux
 
+#### 🚗 Plateforme Web IA pour Agences d'Assurance · AMI Assurances
+Projet de fin d'études (Licence) réalisé chez **Satoripop** : plateforme web dédiée aux agences d'AMI Assurances, intégrant un modèle de machine learning de prédiction du prix des véhicules pour assister l'estimation des contrats.
+`Angular` `Spring Boot` `Django` `Machine Learning`
+
 #### 📊 [Customer Intelligence Platform](https://github.com/Amenmalleh/Customer-Intelligence-Platform-End-to-End-Data-AI-Engineering-Project)
 Segmentation clients et prédiction du churn sur les données e-commerce Olist (8 tables, ~93K clients) : ETL idempotent, features RFM, K-Means en 4 segments métier, modèles XGBoost / LightGBM, explicabilité SHAP et suivi MLflow.
 `Python` `Pandas` `scikit-learn` `XGBoost` `SHAP` `MLflow`
