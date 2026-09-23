@@ -1,13 +1,4 @@
-<h1 align="center">Mohamed Amen Allah Malleh</h1>
-<p align="center">
-  Élève ingénieur en Génie Logiciel · ISSAT Sousse<br>
-  <b>Développement Full-Stack · Data & IA</b>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/amen-malleh-a306a5279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:amen.malleh5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/PFE%202027-disponible%20janvier%202027-2ea44f?style=flat" alt="PFE 2027">
-</p>
+<!-- Bannière --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Mohamed%20Amen%20Allah%20Malleh&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%C3%89l%C3%A8ve%20ing%C3%A9nieur%20en%20G%C3%A9nie%20Logiciel%20%C2%B7%20ISSAT%20Sousse&descSize=16&descAlignY=58" width="100%" alt="Mohamed Amen Allah Malleh"/> <!-- Texte animé --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C8EBB&center=true&vCenter=true&width=620&lines=D%C3%A9veloppeur+Full-Stack+%C2%B7+Django+%26+Angular;Data+%26+IA+%C2%B7+Machine+Learning+%26+MLflow;Des+donn%C3%A9es+brutes+%C3%A0+l'application;Recherche+un+stage+PFE+%C2%B7+janvier+2027" alt="Texte animé"/> </p> <!-- Contacts --> <p align="center"> <a href="https://www.linkedin.com/in/amen-malleh-a306a5279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:amen.malleh5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <img src="https://img.shields.io/badge/PFE_2027-Disponible_janvier_2027-2ea44f?style=for-the-badge" alt="PFE 2027"/> </p>
 
 ---
 
